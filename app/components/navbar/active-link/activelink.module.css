@@ -1,0 +1,7 @@
+.link {
+  @apply hover:text-blue-500 hover:underline m-2 transition-all;
+}
+
+.activeLink {
+  @apply text-blue-500 m-2;
+}
